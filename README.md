@@ -41,7 +41,7 @@ A streamlined application that enables users to chat with their PDF documents us
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/Srinivas26k/Talk_to_PDF.git)
+   git clone [](https://github.com/Srinivas26k/Talk_to_PDF.git)
    cd Talk_to_PDF
    ```
 
